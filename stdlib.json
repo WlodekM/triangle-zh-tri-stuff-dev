@@ -1,0 +1,6 @@
+{
+  "name": "triangle-zh/tri-stuff",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}

@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "Fake furry",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
