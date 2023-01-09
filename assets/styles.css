@@ -89,6 +89,9 @@ background-size: 113px, 113px;
 /*games*/
 
 .home li {
+background: #990000;
+border: 4px solid #cc0000;background: #990000;
+border: 4px solid #cc0000;
 color: #fff;
 display: inline-block;
 font-family: "Noto Sans", sans-serif;
