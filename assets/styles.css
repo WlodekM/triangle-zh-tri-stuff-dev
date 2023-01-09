@@ -95,13 +95,13 @@ font-family: "Noto Sans", sans-serif;
 font-weight: 600;
 padding: 10px 30px;
 }
-.games li {
+.about li {
 
     padding-left: 50px;
     color: #fff;
 
 }
-.games p {
+.about p {
     margin-bottom: 20px;
     color: #d8d8d8;
     font-size: 0.9em;
@@ -115,12 +115,7 @@ padding: 10px 30px;
 }
 
 /* про гру */
-.about {
-    background: linear-gradient(#ff0000, #c40000, #ff1111);
-    padding-left: 50px;
-    padding-right: 50px;
-    font-size: 14px;
-}
+
 
 .about h1 {
     color: #f5f5f5;
